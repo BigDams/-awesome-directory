@@ -18,6 +18,7 @@ A curated collection of exceptional resources, tools, libraries, and learning pa
     * [Game Development](#game-development)
     * [Internet of Things (IoT)](#internet-of-things-iot)
     * [Quantum Computing](#quantum-computing)
+    * [Tech Entrepreneurship & Career Growth](#tech-entrepreneurship--career-growth)
     * [... and more!](#and-more)
 * [License](#license)
 
@@ -176,6 +177,27 @@ A set of practices that combines software development (Dev) and IT operations (O
 * **Security**
     * **SonarQube**
         * [SonarQube](https://www.sonarsource.com/) - A static analytics tool for code quality and security.
+---
+
+#### Tech Entrepreneurship & Career Growth
+
+Resources to help developers and tech enthusiasts grow their careers, build personal brands, start businesses, or transition into leadership roles.
+
+* **Career Development**
+    * [Tech Interview Handbook](https://www.techinterviewhandbook.org/) - Curated interview prep resources for busy engineers.
+    * [Levels.fyi](https://www.levels.fyi/) - Understand compensation, roles, and progression in top tech companies.
+    * [Holloway’s Guide to Technical Recruiting and Hiring](https://www.holloway.com/g/technical-recruiting-hiring) - Excellent guide for both hiring managers and candidates.
+
+* **Tech Entrepreneurship**
+    * [Indie Hackers](https://www.indiehackers.com/) - Learn from solo developers and bootstrapped SaaS founders.
+    * [Y Combinator’s Startup School](https://www.startupschool.org/) - Free startup accelerator program with structured curriculum.
+    * [The Lean Startup](https://leanstartup.co/) - A proven approach to launching startups using MVP and rapid feedback loops.
+
+* **Personal Branding & Content**
+    * [Building a Second Brain](https://www.buildingasecondbrain.com/) - Framework for managing ideas and digital knowledge.
+    * [Dev.to](https://dev.to/) - Community for software developers to share and grow together.
+    * [LinkedIn Learning](https://www.linkedin.com/learning/) - Business, tech, and creative skills courses from industry experts.
+
 ---
 
 ### License
